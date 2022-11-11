@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "team": "Patriots",
+        "wins": 10,
+        "losses": 2
+    },
+    {
+        "id": 2,
+        "team": "Bears",
+        "wins": 2,
+        "losses": 10
+    },
+    {
+        "id": 3,
+        "team": "Jets",
+        "wins": 5,
+        "losses": 5
+    }
+]

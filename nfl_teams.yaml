@@ -1,0 +1,13 @@
+- id: 1
+  losses: 2
+  team: Patriots
+  wins: 10
+- id: 2
+  losses: 10
+  team: Bears
+  wins: 2
+- id: 3
+  losses: 5
+  team: Jets
+  wins: 5
+
